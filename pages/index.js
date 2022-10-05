@@ -14,6 +14,7 @@ export default function Home() {
 
       <main>
 	 <Image
+	unoptimizd={true}
         src={mintingPic}
         alt="Minting Info"
         layout = "fill"
